@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anubhav1244/tes.git/static/css/main.7c461fe6.css",
+    "main.js": "/Anubhav1244/tes.git/static/js/main.1b3b1fdf.js",
+    "index.html": "/Anubhav1244/tes.git/index.html",
+    "main.7c461fe6.css.map": "/Anubhav1244/tes.git/static/css/main.7c461fe6.css.map",
+    "main.1b3b1fdf.js.map": "/Anubhav1244/tes.git/static/js/main.1b3b1fdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c461fe6.css",
+    "static/js/main.1b3b1fdf.js"
+  ]
+}
